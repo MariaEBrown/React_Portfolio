@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Reach.js
+            React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
